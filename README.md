@@ -28,7 +28,7 @@
 ### 🛠️ Languages and Tools
 
 <!-- Frontend -->
-<h3>Frontend</h3>
+<h5>Frontend</h5>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -41,7 +41,7 @@
 </p>
 
 <!-- Backend -->
-<h3>Backend</h3>
+<h5>Backend</h5>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
@@ -53,7 +53,7 @@
 </p>
 
 <!-- Web 3.0 & Blockchain -->
-<h3>Web 3.0 & Blockchain</h3>
+<h5>Web 3.0 & Blockchain</h5>
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Smart%20Contract-4B4B4B?style=flat&logo=ethereum&logoColor=white" height="40"/>
@@ -65,7 +65,7 @@
 </p>
 
 <!-- OOP -->
-<h3>Object-Oriented Programming (OOP)</h3>
+<h5>Object-Oriented Programming (OOP)</h5>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -75,7 +75,7 @@
 </p>
 
 <!-- Mobile Development -->
-<h3>Mobile Development & Apps</h3>
+<h5>Mobile Development & Apps</h5>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -83,7 +83,7 @@
 </p>
 
 <!-- Database -->
-<h3>Database Management System (DBMS)</h3>
+<h5>Database Management System (DBMS)</h5>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
@@ -91,6 +91,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="40"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" height="40"/>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
