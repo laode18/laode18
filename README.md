@@ -30,67 +30,67 @@
 <!-- Frontend -->
 <h5>1. Frontend</h5>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"style="margin: 0 5px;"/>
-  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" style="margin: 0 5px;" viewBox="0 0 48 48"><path fill="#00acc1" d="M24,9.604c-6.4,0-10.4,3.199-12,9.597c2.4-3.199,5.2-4.398,8.4-3.599 c1.826,0.456,3.131,1.781,4.576,3.247C27.328,21.236,30.051,24,36,24c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.6 c-1.825-0.456-3.13-1.781-4.575-3.247C32.672,12.367,29.948,9.604,24,9.604L24,9.604z M12,24c-6.4,0-10.4,3.199-12,9.598 c2.4-3.199,5.2-4.399,8.4-3.599c1.825,0.457,3.13,1.781,4.575,3.246c2.353,2.388,5.077,5.152,11.025,5.152 c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.599c-1.826-0.456-3.131-1.781-4.576-3.246C20.672,26.764,17.949,24,12,24 L12,24z"></path></svg>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0 0 48 48"><path fill="#00acc1" d="M24,9.604c-6.4,0-10.4,3.199-12,9.597c2.4-3.199,5.2-4.398,8.4-3.599 c1.826,0.456,3.131,1.781,4.576,3.247C27.328,21.236,30.051,24,36,24c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.6 c-1.825-0.456-3.13-1.781-4.575-3.247C32.672,12.367,29.948,9.604,24,9.604L24,9.604z M12,24c-6.4,0-10.4,3.199-12,9.598 c2.4-3.199,5.2-4.399,8.4-3.599c1.825,0.457,3.13,1.781,4.575,3.246c2.353,2.388,5.077,5.152,11.025,5.152 c6.4,0,10.4-3.199,12-9.598c-2.4,3.199-5.2,4.399-8.4,3.599c-1.826-0.456-3.131-1.781-4.576-3.246C20.672,26.764,17.949,24,12,24 L12,24z"></path></svg>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Backend -->
 <h5>2. Backend</h5>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://img.icons8.com/?size=256&id=54087&format=png" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5105/5105250.png" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/9693/9693029.png" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=256&id=54087&format=png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5105/5105250.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/9693/9693029.png" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Web 3.0 & Blockchain -->
 <h5>3. Web 3.0 & Blockchain</h5>
 <p align="left">
-  <img src="https://img.icons8.com/?size=256&id=HOqGCOyHDbd4&format=png" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5901/5901994.png" height="40" style="margin: 0 5px;"/>
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/web3js-fkc6l6evntwzqrc1ac18.png/web3js-bqu5uc0cbrwxmkzlzt2ods.png?_a=DATAdtAAZAA0" height="40" style="margin: 0 5px;"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" height="40" style="margin: 0 5px;"/>
-  <img src="https://archive.trufflesuite.com/assets/logo.png" height="40" style="margin: 0 5px;"/>
-  <img src="https://moxiesuite.github.io/img/ganache-logomark.svg" height="40" style="margin: 0 5px;"/>
-  <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" height="40" style="margin: 0 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/1200px-Polygon_Icon.svg.png" height="40" style="margin: 0 5px;">
+  <img src="https://img.icons8.com/?size=256&id=HOqGCOyHDbd4&format=png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5901/5901994.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/web3js-fkc6l6evntwzqrc1ac18.png/web3js-bqu5uc0cbrwxmkzlzt2ods.png?_a=DATAdtAAZAA0" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://archive.trufflesuite.com/assets/logo.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://moxiesuite.github.io/img/ganache-logomark.svg" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/1200px-Polygon_Icon.svg.png" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- OOP -->
 <h5>4. Object-Oriented Programming (OOP)</h5>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Mobile Development -->
 <h5>5. Mobile Development & Apps</h5>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Database -->
 <h5>6. Database Management System (DBMS)</h5>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 0 5px;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" style="margin: 0 5px;"/>
-  <img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="40" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
