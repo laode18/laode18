@@ -114,10 +114,10 @@
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=laodemuhammadfitrah18@gmail.com" style="margin: 0 5px;"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/la-ode-muhammad-fitrah-197a24294" style="margin: 0 5px;"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/mr_l_18" style="margin: 0 5px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/6285156457508" style="margin: 0 5px;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=laodemuhammadfitrah18@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/la-ode-muhammad-fitrah-197a24294"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/mr_l_18"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/6285156457508"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -141,7 +141,7 @@
   </a> 
 </p> 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7C936&center=true&width=435&lines=Made+with+💖+by+La Ode Muhammad Fitrah" alt="footer typing svg" /> 
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=18&pause=1000&color=F7C936&center=true&width=435&lines=Made+with+💖+by+La+Ode+Muhammad+Fitrah" alt="footer typing svg" /> 
 </p>
 
 ---
