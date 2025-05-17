@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C5112AQH5xKgSmSDkEA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1580110451615?e=2147483647&v=beta&t=em_icERHsCrjO6yMdtgcC3pXci5LDFI5zRe1yZ3w_0k" alt="Bitcoin Animation" width="1600"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -65,6 +69,4 @@
 ---
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5112AQH5xKgSmSDkEA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1580110451615?e=2147483647&v=beta&t=em_icERHsCrjO6yMdtgcC3pXci5LDFI5zRe1yZ3w_0k" alt="Bitcoin Animation" width="1600"/>
-</p>
+
