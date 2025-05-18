@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Blockchain, Smart Contract, and Solidity**
 - 💬 Ask me about **Laravel, React, Flutter, or Blockchain System**
 - 📫 How to reach me: [📧 laodemuhammadfitrah18@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=laodemuhammadfitrah18@gmail.com)
-- 📝 My short journey is on [my portfolio](https://your-blog.com)
+- 📝 My short journey is on [my portfolio](https://la-ode-muhammad-fitrah-portofolio.vercel.app/)
 - ⚡ Fun fact: I solve bugs better after coffee ☕
 
 ---
