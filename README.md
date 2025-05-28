@@ -73,6 +73,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://la-ode-muhammad-fitrah-portofolio.vercel.app/static/media/net.b0cdb29ea516763b1144.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://la-ode-muhammad-fitrah-portofolio.vercel.app/static/media/asp_net.a80e8e8b56bc516dbff1.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Mobile Development -->
