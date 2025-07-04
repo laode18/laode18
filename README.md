@@ -48,21 +48,21 @@
   <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5105/5105250.png" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/9693/9693029.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5105/5105250.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/9693/9693029.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Web 3.0 & Blockchain -->
 <h5>3. Web 3.0 & Blockchain</h5>
 <p align="left">
-  <img src="https://img.icons8.com/?size=256&id=HOqGCOyHDbd4&format=png" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5901/5901994.png" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/web3js-fkc6l6evntwzqrc1ac18.png/web3js-bqu5uc0cbrwxmkzlzt2ods.png?_a=DATAdtAAZAA0" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://archive.trufflesuite.com/assets/logo.png" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://moxiesuite.github.io/img/ganache-logomark.svg" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/1200px-Polygon_Icon.svg.png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=256&id=HOqGCOyHDbd4&format=png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5901/5901994.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/web3js-fkc6l6evntwzqrc1ac18.png/web3js-bqu5uc0cbrwxmkzlzt2ods.png?_a=DATAdtAAZAA0" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://archive.trufflesuite.com/assets/logo.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://moxiesuite.github.io/img/ganache-logomark.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Ethereum-ETH-icon.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polygon_Icon.svg/1200px-Polygon_Icon.svg.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- OOP -->
@@ -91,8 +91,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" height="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
