@@ -22,6 +22,7 @@
 - 📫 How to reach me: [📧 laodemuhammadfitrah18@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=laodemuhammadfitrah18@gmail.com)
 - 📝 My short journey is on [my portfolio](https://la-ode-muhammad-fitrah-portofolio.vercel.app/)
 - ⚡ Fun fact: I solve bugs better after coffee ☕
+- 📚 I authored a research paper titled [Web-Based Population Information System Using Web 3.0 Technology in Cibabat Subdistrict, Cimahi City](https://ejournal.poltektedc.ac.id/index.php/jiee/article/view/1161)
 
 ---
 
